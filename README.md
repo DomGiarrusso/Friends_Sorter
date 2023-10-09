@@ -5,8 +5,8 @@
 ### **Main Program**
 This program sorts out a list of your friends. It takes in a CSV file that has three columns.
 First one being the name of the friend. The second column is the attribute of the friend.
-The third colum is the birthday of the friend. The attribute and birthday are then sorted through
-the program and a new ouput CSV file is then given. In the output CSV you will find the same first colum, name.
+The third column is the birthday of the friend. The attribute and birthday are then sorted through
+the program and a new ouput CSV file is then given. In the output CSV you will find the same first column, name.
 In the second column, you will find the role in the friend group they were sorted into based off of their attribute.
 Then in the third column, you will find their zodiac sign based off of the birthday given.
 
