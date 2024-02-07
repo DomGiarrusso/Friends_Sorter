@@ -8,7 +8,7 @@
 -   [**Friends Sorter**](#friends-sorter)
     -   [Demo Video](#demo-video)
     -   [Description:](#description)
-    -   [Motiviations](#motiviations)
+    -   [Motivations](#motiviations)
     -   [🚀 Quick Start](#-quick-start)
         -   [Clone the repo](#clone-the-repo)
         -   [Navigate to repo](#navigate-to-repo)
@@ -32,7 +32,7 @@
 
 A Python CLI program that allows you to input a list of friends with an attribute and birthdate. It then outputs a new list with the friends' role in the friend group and their star sign.
 
-## Motiviations
+## Motivations
 
 The idea for this project came about after having a heated argument with my friends about what role we all play in our friend group. At the time I was taking Harvard's CS50P course and was about to start my final project. So I decided why not make a Python CLI program that allows you to be able to sort your friends and even yourself.
 
